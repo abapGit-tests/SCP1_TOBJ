@@ -1,7 +1,5 @@
 *---------------------------------------------------------------------*
 *    view related data declarations
-*   generation date: 25.06.2020 at 15:12:50
-*   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
 *...processing: ZTEST_BCSET.....................................*
 DATA:  BEGIN OF STATUS_ZTEST_BCSET                   .   "state vector
