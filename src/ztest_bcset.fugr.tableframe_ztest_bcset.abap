@@ -1,7 +1,5 @@
 *---------------------------------------------------------------------*
 *    program for:   TABLEFRAME_ZTEST_BCSET
-*   generation date: 25.06.2020 at 15:12:47
-*   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
 FUNCTION TABLEFRAME_ZTEST_BCSET        .
 
